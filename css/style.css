@@ -11,9 +11,9 @@
 
 .caption {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   font-style: italic;
-  margin-top: 5px;
+  margin-top: 3px;
 }
 
 img {
@@ -27,6 +27,6 @@ body {
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   font: "Verdana";
 }
