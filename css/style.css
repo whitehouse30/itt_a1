@@ -16,7 +16,7 @@ header {
   background: white;
   color: #333;
   margin: 100px 10px;
-  width: 150px;
+  width: 250px;
   padding: 20px;
 }
 
@@ -37,6 +37,6 @@ h3 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 20px;
   font-family: sans-serif;
 }
