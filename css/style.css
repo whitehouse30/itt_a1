@@ -5,15 +5,16 @@
   width: 50%;
 }
 
-.retro {
-  border-radius: 8px;
-}
-
 .caption {
   text-align: center;
   font-size: 14px;
   font-style: italic;
   margin-top: 3px;
+}
+
+header {
+  background: gray;
+  margin: 20px 20px 20px 20px;
 }
 
 img {
@@ -26,7 +27,13 @@ body {
   color: white;
 }
 
+h3 {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: salmon;
+}
+
 p {
   font-size: 16px;
-  font: "Verdana";
+  font-family: sans-serif;
 }
