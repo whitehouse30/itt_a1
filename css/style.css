@@ -37,7 +37,7 @@ h1 {
   color: #3a393c;
   background: #FBFAFE;
   margin: 100px 10px 0px;
-  width: 250px;
+  width: 500px;
   padding: 20px 20px 0px;
 }
 
@@ -50,8 +50,8 @@ h5 {
   color: #3a393c;
   background: #FBFAFE;
   margin: 0px 10px;
-  width: 250px;
-  padding: 0px 20px 20px;
+  width: 500px;
+  padding: 0px 20px 40px;
 }
 
 h6 {
@@ -59,8 +59,8 @@ h6 {
   color: #3a393c;
   background: #FBFAFE;
   margin: 0px 10px;
-  width: 250px;
-  padding: 0px 20px 20px;
+  width: 500px;
+  padding: 0px 20px;
 }
 
 p {
@@ -69,13 +69,11 @@ p {
 
 a:link, a:visited {
   color: #4DE1E1;
-  opacity: 50%;
   text-decoration: none;
 }
 
 a:hover {
   color: #4d8ee1;
-  opacity: 50%;
 }
 
 a:active {
