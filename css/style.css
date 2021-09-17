@@ -38,7 +38,7 @@ h1 {
   background: white;
   margin: 100px 10px 0px;
   width: 250px;
-  padding: 20px;
+  padding: 20px 20px 0px;
 }
 
 h3 {
@@ -53,7 +53,7 @@ h5 {
   background: white;
   margin: 0px 10px 20px;
   width: 250px;
-  padding: 5px;
+  padding: 0px 20px 20px;
 }
 
 p {
