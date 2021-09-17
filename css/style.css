@@ -9,6 +9,13 @@
   border-radius: 8px;
 }
 
+.caption {
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 5px;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -17,4 +24,9 @@ img {
 body {
   background: steelblue;
   color: white;
+}
+
+p {
+  font-size: 14px;
+  font: "Verdana";
 }
