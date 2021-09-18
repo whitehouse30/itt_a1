@@ -22,18 +22,18 @@
   height: 100px;
 }
 
+.menu {
+  width: auto;
+  margin: auto;
+  display: flex;
+}
+
 .nav {
   font-size: 14px;
   padding: 10px;
   margin: 10px;
   text-align: center;
   background: #FBFAFE;
-}
-
-.menu {
-  width: auto;
-  margin: auto;
-  display: flex;
 }
 
 header {
