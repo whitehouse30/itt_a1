@@ -13,6 +13,10 @@
   color: #4d8ee1
 }
 
+.homepage {
+  display: flex;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
@@ -27,6 +31,7 @@ img {
 }
 
 body {
+  margin: 0;
   background: #3a393c;
   color: #FBFAFE;
   padding: 10px;
