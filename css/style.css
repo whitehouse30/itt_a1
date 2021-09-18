@@ -31,8 +31,8 @@
 }
 
 .menu {
-  width: 1200px;
-  margin: auto;
+  width: 1000px;
+  margin: 0 auto;
   display: flex;
 }
 
