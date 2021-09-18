@@ -10,6 +10,7 @@
   font-size: 14px;
   font-style: italic;
   margin-top: 3px;
+  color: #4d8ee1
 }
 
 header {
@@ -52,6 +53,7 @@ h5 {
   margin: 0px 10px;
   width: 500px;
   padding: 0px 20px 40px;
+  border-bottom: #4DE1E1 1px solid;
 }
 
 h6 {
