@@ -31,8 +31,8 @@
 }
 
 .menu {
-  max-width: 100%;
-  margin: 0 auto;
+  width: auto;
+  margin: auto;
   display: flex;
 }
 
