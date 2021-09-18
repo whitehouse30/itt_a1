@@ -44,6 +44,13 @@
   width: auto;
 }
 
+.ideal_job_images {
+  display: flex;
+  margin: auto;
+  max-height: 600px;
+  width: auto;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
