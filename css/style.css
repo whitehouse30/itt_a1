@@ -32,11 +32,13 @@ header {
 
 footer {
   display: flex;
-  margin: 40px;
+  display-margin: 10px;
+  margin: 0;
   text-align: center;
   background: #FBFAFE;
   width: auto;
   font-size: 20px;
+  padding: 100px;
 }
 
 img {
