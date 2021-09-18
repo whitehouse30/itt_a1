@@ -15,6 +15,7 @@
 
 .homepage {
   display: flex;
+  margin: 10px;
 }
 
 header {
@@ -51,6 +52,10 @@ h3 {
   font-size: 40px;
 }
 
+h4 {
+  text-align: center;
+}
+
 h5 {
   font-size: 12px;
   color: #3a393c;
@@ -58,7 +63,7 @@ h5 {
   margin: 0px 10px;
   width: 500px;
   padding: 0px 20px 40px;
-  border-bottom: #4DE1E1 1px solid;
+  border-bottom: #4DE1E1 2px solid;
 }
 
 h6 {
