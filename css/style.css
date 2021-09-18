@@ -1,8 +1,6 @@
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin:0 auto;
+  max-height: 200px;
 }
 
 .caption {
@@ -24,7 +22,7 @@
 
 .menu {
   display: flex;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .nav {
@@ -39,7 +37,6 @@
   display: flex;
   margin: auto;
   max-height: 200px;
-  max-width: auto;
 }
 
 header {
