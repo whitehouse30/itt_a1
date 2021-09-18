@@ -51,6 +51,11 @@
   width: auto;
 }
 
+.personal_profile_header {
+  display: flex;
+  margin: auto;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
