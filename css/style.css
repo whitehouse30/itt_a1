@@ -30,6 +30,12 @@
   background: #FBFAFE;
 }
 
+.menu {
+  width: 800px;
+  margin: auto;
+    display: flex;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
@@ -39,7 +45,6 @@ header {
 }
 
 footer {
-  display: flex;
   background: #FBFAFE;
   margin: 0;
 }
