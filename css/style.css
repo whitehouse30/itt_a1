@@ -30,6 +30,15 @@ header {
   padding: 20px;
 }
 
+footer {
+  display: flex;
+  margin: 40px;
+  text-align: center;
+  background: #FBFAFE;
+  width: auto;
+  font-size: 30px;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -58,6 +67,7 @@ h3 {
 
 h4 {
   text-align: right;
+  font-size: 30px;
   margin: 15px 0 20px 200px;
 }
 
