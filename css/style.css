@@ -31,9 +31,9 @@
 }
 
 .menu {
-  width: 800px;
-  margin: auto;
-    display: flex;
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
 }
 
 header {
