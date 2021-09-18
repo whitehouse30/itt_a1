@@ -35,6 +35,13 @@
   background: #FBFAFE;
 }
 
+.two_images {
+  display: flex;
+  margin: auto;
+  max-height: 200px;
+  max-width: auto;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
