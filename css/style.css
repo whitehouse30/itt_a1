@@ -67,9 +67,9 @@
 
 .drone_images {
   display: flex;
-  margin: 0 30px 0 30px;
+  margin: auto;
   max-height: 125px;
-  width: 50%;
+  width: auto;
 }
 
 header {
