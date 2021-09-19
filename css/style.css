@@ -61,7 +61,7 @@
 
 .personal_profile_header {
   display: flex;
-  margin: auto;
+  width: 1000px;
 }
 
 header {
