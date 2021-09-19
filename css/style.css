@@ -61,7 +61,8 @@
 
 .personal_profile_header {
   display: flex;
-  width: 1000px;
+  width: 2000px;
+  margin: 0 100px 0 0;
 }
 
 .drone_images {
