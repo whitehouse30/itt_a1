@@ -64,6 +64,13 @@
   width: 1000px;
 }
 
+.drone_images {
+  display: flex;
+  margin: auto;
+  max-height: 300px;
+  width: 50%;
+}
+
 header {
   background: #FBFAFE;
   color: #3a393c;
